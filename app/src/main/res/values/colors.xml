@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
     <color name="f5f5f5">#f5f5f5</color>
     <color name="white">#FFFFFf</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="actionsheet_blue">#037BFF</color>
 </resources>
